@@ -18,8 +18,6 @@ Imaginify is a full-stack SaaS application for AI-powered image generation and t
 - Cloudinary (AI image handling)
 - Tailwind CSS
 
-\`\`\`bash
-
 Create a .env.local file and add:
 
 #CLERK
@@ -50,4 +48,3 @@ STRIPE_WEBHOOK_SECRET=
 #Other
 NEXT_PUBLIC_SERVER_URL=
 
-\`\`\`
